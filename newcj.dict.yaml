@@ -4,7 +4,7 @@
 
 ---
 name: "newcj"
-version: "0.1"
+version: "0.2"
 sort: by_weight
 #use_preset_vocabulary: true
 max_phrase_length: 7
@@ -83,6 +83,7 @@ encoder:
 ㄡ	/
 ㄥ	/
 http://	//
+https://	//
 ftp://	//
 file://	//
 ftp://	//;
@@ -3497,7 +3498,6 @@ e_e	bugt
 鈖	cch;
 锑	cch;;
 鈆	cci
-http://www.ccivs.cyc.edu.tw/	ccivs
 鎓	ccm
 鉛	ccr
 鋊	ccr
@@ -3509,7 +3509,6 @@ http://www.ccivs.cyc.edu.tw/	ccivs
 锐	ccu
 鋭	ccu;
 锐	ccu;;
-http://www.ccvs.tpc.edu.tw/	ccvs
 鍊	cd
 米	cd
 鈢	cd
@@ -3544,8 +3543,6 @@ http://www.ccvs.tpc.edu.tw/	ccvs
 淾	ce;
 录	ce;;
 錔	cea
-http://www.cea.org.tw/	cea
-http://www.cea.org.tw/	cea;
 鎟	ced
 錣	cee
 鐋	ceh
@@ -3898,7 +3895,6 @@ $$@@￥￥	cii
 铽	cip
 鋱	cip;
 鏕	cip;;
-http://www.cipc.org.tw/	cipc
 鉾	ciq
 鈶	cir
 鍼	cir
@@ -3908,7 +3904,6 @@ http://www.cipc.org.tw/	cipc
 鋮	cis
 铖	cis
 铖	cis;
-http://www.cish.mlc.edu.tw/	cish
 翁	cism
 鈗	ciu
 兊	ciu
@@ -4018,7 +4013,6 @@ http://www.cish.mlc.edu.tw/	cish
 錼	ckf;
 镣	ckf;;
 鍷	ckg
-http://www.ckgsh.tn.edu.tw/	ckgsh
 斧	ckhl
 鈜	cki
 鈦	cki
@@ -4393,7 +4387,6 @@ http://www.ckgsh.tn.edu.tw/	ckgsh
 钩	cpr
 鍧	cpr;
 钩	cpr;;
-http://www.cpshs.tyc.edu.tw/	cpshs
 鉪	cpt
 鈍	cpu
 鉋	cpu
@@ -4499,9 +4492,7 @@ http://www.cpshs.tyc.edu.tw/	cpshs
 锓	cse;;
 炃	csf
 鎷	csf
-http://www.csf.org.tw/	csf
 鎷	csf;
-http://www.csf.org.tw/	csf;;
 鏗	csg
 坌	csg
 鑃	csg
@@ -4640,7 +4631,6 @@ http://www.csf.org.tw/	csf;;
 鑶	cts
 錺	cts
 錺	cts;
-http://www.ctsh.mlc.edu.tw/	ctsh
 鉼	ctt
 鎰	ctt
 鑉	ctt
@@ -6744,7 +6734,6 @@ http://www.ctsh.mlc.edu.tw/	ctsh
 澜	eaw
 澜	eaw;
 消	eb
-http://www.ebay.com.tw/	ebay
 滑	ebb
 渦	ebb
 淜	ebb
@@ -6804,7 +6793,6 @@ http://www.ebay.com.tw/	ebay
 渓	ebo
 溕	ebo
 溕	ebo;
-http://www.e-bobo.net/	ebobo
 懣	ebp
 懘	ebp
 濦	ebp
@@ -6916,8 +6904,6 @@ http://www.e-bobo.net/	ebobo
 濋	edo;;
 湋	edq
 湘	edu
-http://www.edu.tw/index.htm	edu
-http://www.edu.tw/index.htm	edu;
 漤	edv
 湅	edw
 涷	edw
@@ -9366,7 +9352,6 @@ o(‵′)OOOOO	fqq;;
 爦	fsu
 煀	fsu
 煀	fsu;
-http://www.fsvs.ks.edu.tw/	fsvs
 燈	ft
 灷	ft
 灯	ft
@@ -9482,7 +9467,6 @@ http://www.fsvs.ks.edu.tw/	fsvs
 黨	fx
 党	fx
 党	fx;
-http://www.fxsh.tyc.edu.tw/	fxsh
 幣	fy
 币	fy
 燣	fy;
@@ -10277,7 +10261,6 @@ http://www.fxsh.tyc.edu.tw/	fxsh
 趖	goog
 趡	goog
 趡	goog;
-http://www.google.com.tw/	googl
 趁	gooh
 赺	goon
 趝	goop
@@ -10310,7 +10293,6 @@ m(^S^)m	gosr;
 趥	gotw
 赸	gou
 趉	gouu
-http://www.gov.tw/	gov
 趢	gove
 赳	govl
 墖	gow
@@ -11601,7 +11583,6 @@ q(^_^)p	grr
 魉	himb
 魉	himb;
 魒	himf
-http://www.hinet.net/	hinet
 乏	hio
 瓜	hio
 瓜	hio;
@@ -11746,14 +11727,12 @@ http://www.hinet.net/	hinet
 譥	hkyr
 譥	hkz
 所	hl
-http://www.hla.hlc.edu.tw/	hla
 齃	hlav
 禹	hlb
 質	hlbc
 质	hlbc
 质	hlbc;
 孵	hlbd
-http://www.hlbh.hlc.edu.tw/	hlbh
 簣	hlc
 篑	hlc
 篑	hlc;
@@ -12144,9 +12123,6 @@ http://www.hlbh.hlc.edu.tw/	hlbh
 籤	hom
 签	hom
 签	hom;
-http://www.eztyping.com.tw/	home
-http://www.eztyping.com.tw/download.htm	home
-http://www.eztyping.com.tw/download.htm	home;
 徱	homf
 鴴	homf
 鸻	homf
@@ -12289,7 +12265,6 @@ http://www.eztyping.com.tw/download.htm	home;
 籎	hpo
 笓	hpp
 笱	hpr
-http://www.hpsh.tnc.edu.tw/	hpsh
 印	hpsl
 即	hpsl
 卽	hpsl
@@ -13629,7 +13604,6 @@ m(_　_)m	hqmj
 曵	ilp
 唐	ilr
 廔	ilv
-http://www.ilvs.ilc.edu.tw/	ilvs
 台北市	ilyz
 台北市政府	ilyz
 台北市政府	ilyz;
@@ -15216,7 +15190,6 @@ http://www.ilvs.ilc.edu.tw/	ilvs
 刹	kcln
 刹	kcln;
 痥	kcu
-http://www.kcvs.khc.edu.tw/	kcvs
 存	kd
 閷	kdao
 癩	kdc
@@ -15602,7 +15575,6 @@ http://www.kcvs.khc.edu.tw/	kcvs
 	ki]
 痡	kib
 盇	kibt
-http://kids.yam.com/	kids
 痠	kie
 酸	kie
 酸	kie;
@@ -15754,7 +15726,6 @@ http://kids.yam.com/	kids
 布	klb
 痩	kle
 在	klg
-http://www.klhcvs.kl.edu.tw/	klhcv
 痋	kli
 夰	kll
 夼	kll
@@ -15854,7 +15825,6 @@ http://www.klhcvs.kl.edu.tw/	klhcv
 疓	kns
 馗	kntu
 瘬	knv
-http://www.knvs.tp.edu.tw/	knvs
 訄	knyr
 虓	knyu
 訄	knz
@@ -15927,7 +15897,6 @@ http://www.knvs.tp.edu.tw/	knvs
 疪	kpp
 痀	kpr
 疶	kpt
-http://www.kpvs.tpc.edu.tw	kpvs
 痛	kq
 瘈	kqk
 瘛	kqp
@@ -15991,7 +15960,6 @@ http://www.kpvs.tpc.edu.tw	kpvs
 奆	kss
 劜	ksu
 痮	ksv
-http://www.ksvcs.kh.edu.tw/	ksvcs
 勰	kswp
 猶	kt
 犹	kt
@@ -18426,7 +18394,6 @@ http://www.ksvcs.kh.edu.tw/	ksvcs
 礦	mic
 矿	mic
 矿	mic;
-http://www.microsoft.com/taiwan	micro
 砯	mie
 磩	mif
 至	mig
@@ -18566,7 +18533,6 @@ http://www.microsoft.com/taiwan	micro
 功	mks
 劯	mks
 劯	mks;
-http://www.mksh.phc.edu.tw	mksh
 硽	mku
 嬮	mkv
 黶	mkwf
@@ -19595,7 +19561,6 @@ http://www.mksh.phc.edu.tw	mksh
 礮	msk
 礮	msk;
 卭	msl
-http://www.msn.com.tw/	msn
 鄠	msnl
 豕	mso
 豖	mso
@@ -20225,7 +20190,6 @@ http://www.msn.com.tw/	msn
 觪	nbyj
 觪	nbyj;
 小	nc
-http://www.nccu.tw/	nccu
 詹	ncyr
 詹	ncz
 子	nd
@@ -21404,7 +21368,6 @@ No.	no
 毚	nrpi
 凳	nrtn
 娿	nrv
-http://www.nrvs.tpc.edu.tw/	nrvs
 解	ns
 鼐	nsbl
 鼐	nsbn
@@ -21465,7 +21428,6 @@ http://www.nrvs.tpc.edu.tw/	nrvs
 阱	ntt
 隘	ntt
 隘	ntt;
-http://www.ntu.tw/	ntu
 乙	nu
 ぬ	nu
 ヌ	nu'
@@ -23069,7 +23031,6 @@ http://www.ntu.tw/	ntu
 偞	opd
 柋	opd;
 ㄊ	opd;;
-http://www.openfind.com.tw/	openf
 垈	opg
 佖	oph
 伆	oph
@@ -23742,7 +23703,6 @@ d(^^)	oyn;;
 鷏	pchf
 鷆	pchf
 鷆	pchf;
-http://www.pchome.com.tw/	pchom
 忪	pci
 勩	pcks
 勚	pcks
@@ -23877,7 +23837,6 @@ http://www.pchome.com.tw/	pchom
 懰	phn;
 悧	phn;;
 邲	phnl
-http://www.phnvs.cy.edu.tw/	phnvs
 怢	pho
 惞	pho
 惞	pho;
@@ -24031,7 +23990,6 @@ http://www.phnvs.cy.edu.tw/	phnvs
 恗	pks
 恊	pks;
 恗	pks;;
-http://www.pksh.ylc.edu.tw/	pksh
 匎	pku
 忡	pl
 憒	plc
@@ -25871,7 +25829,6 @@ q*0*p	qmn
 嚗	rae
 嚗	rae;
 啺	rah
-http://www.railway.gov.tw/	rail
 哻	raj
 唧	ral
 喞	ral
@@ -27616,7 +27573,6 @@ f(^_^)	rsg
 鷵	sahf
 飁	sahn
 翫	samu
-http://www.sanhsin.edu.tw	sanhs
 匽	sav
 監	sb
 监	sb
@@ -27635,8 +27591,6 @@ http://www.sanhsin.edu.tw	sanhs
 层	sca;
 殿	sche
 鴄	schf
-http://www.edu.tw/school/	schoo
-http://www.scvs.tpc.edu.tw/	scvs
 取	sd
 杘	sd
 杘	sd;
@@ -27938,7 +27892,6 @@ http://www.scvs.tpc.edu.tw/	scvs
 騳	sfsf
 骉	sfsf
 騳	sfsf;
-http://www.sfsh.tnc.edu.tw/	sfsh
 駬	sfsj
 驟	sfso
 駅	sfso
@@ -28165,7 +28118,6 @@ O(^_^)O	sgjp
 脋	shsb
 羽	shsh
 刕	shsh
-http://www.shsh.kl.edu.tw/	shsh
 刕	shsh;
 髶	shsj
 髫	shsr
@@ -28392,7 +28344,6 @@ http://www.shsh.kl.edu.tw/	shsh
 匮	slc;
 臤	sle
 卪	sli
-http://www.slime.com.tw/	slime
 臣	sll
 頤	slmc
 頣	slmc
@@ -28518,7 +28469,6 @@ http://www.slime.com.tw/	slime
 屟	spd;
 匢	sph
 鵋	sphf
-http://www.sphs.hc.edu.tw/	sphs
 屁	spp
 馬	sq
 马	sq
@@ -28789,7 +28739,6 @@ http://www.sphs.hc.edu.tw/	sphs
 鉴	swc;
 匣	swl
 擥	swq
-http://www.swsh.hlc.edu.tw/	swsh
 譼	swyr
 譼	swz
 層	sx
@@ -29469,7 +29418,6 @@ http://www.swsh.hlc.edu.tw/	swsh
 蕛	thh;
 虋	thh;;
 鶜	thhf
-http://www.thhs.tpc.edu.tw/	thhs
 蒐	thi
 菂	thi
 莪	thi
@@ -30141,7 +30089,6 @@ http://www.thhs.tpc.edu.tw/	thhs
 蓣	tnc
 萯	tnc;
 藬	tnc;;
-http://www.tncvs.tn.edu.tw/	tncvs
 蘇	tnd
 蒢	tnd
 芓	tnd
@@ -30231,7 +30178,6 @@ http://www.tncvs.tn.edu.tw/	tncvs
 菡	tnu;;
 菡	tnuf
 蕵	tnv
-http://www.tnvs.tn.edu.tw/	tnvs
 蔯	tnw
 萏	tnx
 薝	tnz
@@ -30598,7 +30544,6 @@ U／／／U	tqng
 萇	tsv
 苌	tsv
 苌	tsv;
-http://www.tsvs.tpc.edu.tw/	tsvs
 斟	tsyj
 並	tt
 井	tt
@@ -34682,10 +34627,6 @@ c^_>	wks;
 罍	wwu
 圜	wwv
 畾	www
-http://www.eztyping.com.tw/	www
-http://www.eztyping.com.tw/download.htm	www
-http://www.eztyping.com.tw/	www;
-http://www.eztyping.com.tw/download.htm	www;;
 壨	wwwg
 買	wx
 买	wx
@@ -35193,12 +35134,9 @@ http://www.eztyping.com.tw/download.htm	www;;
 鶕	yahf
 韹	yahg
 韸	yahj
-http://www.yahoo.com.tw/	yahoo
 戠	yai
 卓	yaj
 遢	yam
-http://www.yam.com.tw/	yam
-http://www.yam.com.tw/	yam;
 韴	yamb
 歆	yano
 遈	yao
@@ -35386,7 +35324,6 @@ http://www.yam.com.tw/	yam;
 勍	yfks
 剠	yfln
 遴	yfq
-http://www.yfsh.ylc.edu.tw/	yfsh
 敊	yfye
 主	yg
 逇	ygd
@@ -35664,7 +35601,6 @@ http://www.yfsh.ylc.edu.tw/	yfsh
 辮	ykvj
 辫	ykvj
 辫	ykvj;
-http://www.ykvs.tpc.edu.tw/	ykvs
 辯	ykyj
 辩	ykyj
 辩	ykyj;
@@ -35789,7 +35725,6 @@ http://www.ykvs.tpc.edu.tw/	ykvs
 譶	ymr;
 逜	ymr;;
 迃	yms
-http://www.ymsh.hcc.edu.tw/	ymsh
 歫	ymss
 逗	ymt
 遷	ymu
