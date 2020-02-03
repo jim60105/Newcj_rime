@@ -13,7 +13,7 @@ patch:
     comment_format:
       - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
   recognizer/patterns/reverse_lookup: "`[-,.;/a-z0-9]*'?$"
-  
+
   # 啟用多文字輸入，改變空白鍵表現
   translator/enable_sentence: true
   translator/enable_user_dict: true
@@ -26,16 +26,12 @@ patch:
     "<" : "<"
     ">" : ">"
     "/" : "/"
-    "?" : { commit: "?" }
+    "?" : "?"
     ";" : [ "；", ";"]
     ":" : [ "：", ":"]
-    "'" : { commit: 、 }
-    "\"" : [ "\"", "'"]
-    "\\" : "\\"
     "|" : "|"
-    "`" : "`"
     "~" : "~"
-    "!" : { commit: "!" }
+    "!" : "!"
     "@" : "@"
     "#" : "#"
     "%" : "%"
@@ -53,3 +49,7 @@ patch:
     "]" : [ "]", 」, 】, 〕, ］ ]
     "{" : "{"
     "}" : "}"
+    "`" : "`"
+    "'" : { commit: 、 }
+    "\"" : [ "\"", "'"]
+    "\\" : "\\"
