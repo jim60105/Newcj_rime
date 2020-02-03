@@ -5,7 +5,7 @@
 schema:
   schema_id: newcj
   name: 自由大新倉頡
-  version: "0.40"
+  version: "1.0"
   author:
     - 自由大新倉頡
   description: |
@@ -56,46 +56,22 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba,./;?[]
   delimiter: " "
   auto_select: true
-  max_code_length: 5  # 五碼頂字上屏
+  max_code_length: 5  # 形碼最大碼長，超過則頂字上屛
 
 translator:
   dictionary: newcj
   enable_charset_filter: true
-  enable_sentence: true
-#  enable_encoder: true
+  enable_completion: true
+  enable_sentence: false
   encode_commit_history: true
   max_phrase_length: 5
   preedit_format:
-  #  - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
     - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
-  #  - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜重|"
   comment_format:
     - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
-  #  - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ～|"
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
-
-#abc_segmentor:
-#  extra_tags:
-#    - reverse_lookup  # 與拼音（反查碼）混打
-
-#reverse_lookup:
-#  dictionary: luna_pinyin
-#  prism: luna_quanpin
-#  prefix: "`"
-#  suffix: "'"
-#  tips: 〔拼音〕
-#  preedit_format:
-#    - xform/([nl])v/$1ü/
-#    - xform/([nl])ue/$1üe/
-#    - xform/([jqxy])v/$1u/
-#  comment_format:
-#    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-
-#simplifier:
-#  opencc_config: t2tw.json
-#  option_name: zh_tw
 
 simplifier:
   tips: all  # 簡化字模式下提示對應的傳統漢字

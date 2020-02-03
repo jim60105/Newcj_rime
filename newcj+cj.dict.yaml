@@ -4,7 +4,7 @@
 
 ---
 name: "newcj+cj"
-version: "0.3"
+version: "0.4"
 sort: by_weight
 #use_preset_vocabulary: true
 max_phrase_length: 7
@@ -6931,9 +6931,6 @@ eee	淼
 eee	叒
 eee	渁
 eee	涰
-eee	service@eztyping.com.tw
-eee	ez.typing@msa.hinet.net
-eee	r9716507@ms4.hinet.net
 eee;	叒
 eee;;	渁
 eeee	叕
@@ -7512,9 +7509,6 @@ ema	洦
 ema	潜
 ema;	瀦
 ema;;	溍
-email	service@eztyping.com.tw
-email	ez.typing@msa.hinet.net
-email	r9716507@ms4.hinet.net
 emb	濡
 emb	灞
 emb	漘
@@ -29173,7 +29167,6 @@ tei	薄
 tej	萍
 tej	藫
 tej;	藫
-tel	(02)2971-6507
 tel	☎
 tel	☏
 tel	✆

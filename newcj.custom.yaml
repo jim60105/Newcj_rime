@@ -1,9 +1,7 @@
-# 用注音反查倉頡碼
-# 註：不支持用空格鍵輸入第一聲
+# Rime schema settings
 
 patch:
-  abc_segmentor/extra_tags: 
-    - reverse_lookup
+  # 反查，不支持用空格鍵輸入第一聲
   reverse_lookup:
     dictionary: terra_pinyin
     prism: bopomofo
@@ -15,3 +13,43 @@ patch:
     comment_format:
       - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
   recognizer/patterns/reverse_lookup: "`[-,.;/a-z0-9]*'?$"
+  
+  # 啟用多文字輸入，改變空白鍵表現
+  translator/enable_sentence: true
+  translator/enable_user_dict: true
+  speller/use_space: true
+
+  # 複寫個人標點
+  punctuator/half_shape:
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "<" : "<"
+    ">" : ">"
+    "/" : "/"
+    "?" : { commit: "?" }
+    ";" : [ "；", ";"]
+    ":" : [ "：", ":"]
+    "'" : { commit: 、 }
+    "\"" : [ "\"", "'"]
+    "\\" : "\\"
+    "|" : "|"
+    "`" : "`"
+    "~" : "~"
+    "!" : { commit: "!" }
+    "@" : "@"
+    "#" : "#"
+    "%" : "%"
+    "$" : [ "$", ￥, "€", "£", "¥", "¢", "¤", ₩ ]
+    "^" : "^"
+    "&" : "&"
+    "*" : "*"
+    "(" : "("
+    ")" : ")"
+    "-" : "-"
+    "_" : "_"
+    "+" : "+"
+    "=" : "="
+    "[" : [ "[", 「, 【, 〔, ［ ]
+    "]" : [ "]", 」, 】, 〕, ］ ]
+    "{" : "{"
+    "}" : "}"

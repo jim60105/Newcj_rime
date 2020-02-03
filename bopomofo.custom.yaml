@@ -4,7 +4,6 @@
 patch:
   schema/dependencies:
     - newcj
-  menu/alternative_select_keys: []
   reverse_lookup:
     dictionary: newcj
     enable_completion: true
