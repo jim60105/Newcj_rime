@@ -21,15 +21,21 @@ patch:
   speller/delimiter: " '"
 
   # 複寫個人標點
+  speller/alphabet:  zyxwvutsrqponmlkjihgfedcba
+  translator/preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
+  translator/comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
+  
   punctuator/half_shape:
     "," : { commit: ， }
     "." : { commit: 。 }
     "<" : "<"
     ">" : ">"
-    "/" : "/"
+    "/" : [ "/" ]   #開選單才能觸發標點快捷
     "?" : "?"
-    ";" : [ "；", ";"]
-    ":" : [ "：", ":"]
+    ";" : ";"
+    ":" : ":"
     "|" : "|"
     "~" : "~"
     "!" : "!"
