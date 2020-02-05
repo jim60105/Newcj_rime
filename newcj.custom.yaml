@@ -14,10 +14,11 @@ patch:
       - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
   recognizer/patterns/reverse_lookup: "`[-,.;/a-z0-9]*'?$"
 
-  # 啟用多文字輸入，改變空白鍵表現
+  # 啟用多文字輸入，加入分隔標點
   translator/enable_sentence: true
   translator/enable_user_dict: true
-  speller/use_space: true
+  #speller/use_space: true
+  speller/delimiter: " '"
 
   # 複寫個人標點
   punctuator/half_shape:
