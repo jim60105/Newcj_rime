@@ -17,7 +17,7 @@ patch:
 
   # 啟用多文字輸入，加入分隔標點
   translator/enable_sentence: true
-  translator/enable_user_dict: true
+  #translator/enable_user_dict: true
   #speller/use_space: true
   speller/delimiter: " '"
 
@@ -61,4 +61,4 @@ patch:
     "'" : { commit: 、 }
     "\"" : [ "\"", "'"]
     "\\" : [ "\\" ]
-    "/cx": [ └,┘,┌,┐,┬,┴,├,─,┼,┤,╞,═,╪,╡,│,▕,╭,╮,╰,╯,╔,╦,╗,╠,═,╬,╣,║,╚,╩,╝,╟,╫,╢,╓,╥,╖,╒,╤,╕,╙,╨,╜,╞,╪,╡,╘,╧,╛ ]
+    "/kx": [ └,┘,┌,┐,┬,┴,├,─,┼,┤,╞,═,╪,╡,│,▕,╭,╮,╰,╯,╔,╦,╗,╠,═,╬,╣,║,╚,╩,╝,╟,╫,╢,╓,╥,╖,╒,╤,╕,╙,╨,╜,╞,╪,╡,╘,╧,╛ ]
