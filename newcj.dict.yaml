@@ -82,12 +82,6 @@ encoder:
 ㄝ	/
 ㄡ	/
 ㄥ	/
-http://	//
-https://	//
-ftp://	//
-file://	//
-ftp://	//;
-file://	//;;
 ＼	/;
 ╱	/;;
 ╲	/;;;
@@ -1132,16 +1126,9 @@ file://	//;;
 猒	abik
 暈	abj
 暉	abj
-（°ο°）~@	abj
-(6__9)	abj
-(×_×)	abj
-(E_E)	abj
-..@_@|||||..	abj
-@_@	abj
 晕	abj
 晖	abj
 暉	abj;
-（°ο°）~@	abj;;
 曌	abjm
 琞	abmg
 琞	abmi
@@ -1276,9 +1263,7 @@ file://	//;;
 昪	ait
 早	aj
 旪	aj
-~^o^~	aj
 旪	aj;
-~^o^~	aj;;
 暑	aja
 暏	aja
 暏	aja;
@@ -1531,17 +1516,8 @@ file://	//;;
 闚	anqu
 問	anr
 曕	anr
-(‧_‧)?	anr
-(^_^)?	anr
-(+_+)?	anr
-(=‵′=)	anr
-o_O???	anr
-(?ε?）?	anr
-(((^^)(^^)))?	anr
-X_X?	anr
 问	anr
 曕	anr;
-(‧_‧)?	anr;;
 闡	anrj
 阐	anrj
 阐	anrj;
@@ -1853,10 +1829,8 @@ X_X?	anr
 赐	bbah;
 骨	bbb
 腡	bbb
-ε==3	bbb
 脶	bbb
 腡	bbb;
-ε==3	bbb;;
 朤	bbbb
 贔	bbbc
 赑	bbbc
@@ -1877,10 +1851,8 @@ X_X?	anr
 骵	bbdm
 愛	bbe
 受	bbe
-◢█◣◢█◣█愛心分享█◥████◤　◥██◤　　　◥◤　　	bbe
 爱	bbe
 受	bbe;
-◢█◣◢█◣█愛心分享█◥████◤　◥██◤　　　◥◤　　	bbe;;
 鵬	bbf
 鹏	bbf
 鹏	bbf;
@@ -2310,14 +2282,8 @@ X_X?	anr
 噕	bfr;;
 勝	bfs
 朥	bfs
-y^o^y	bfs
-Y(^_^)Y	bfs
-\(^0^)/	bfs
-*\(^v^)/*	bfs
-~\/{^O^}\/~	bfs
 胜	bfs
 朥	bfs;
-y^o^y	bfs;;
 胱	bfu
 乿	bfu
 腃	bfu
@@ -2433,9 +2399,7 @@ y^o^y	bfs;;
 貘	bhtk
 貖	bhtt
 貓	bhtw
-(=^　^=)	bhtw
 猫	bhtw
-(=^　^=)	bhtw;
 腯	bhu
 膬	bhu
 腉	bhu
@@ -2566,9 +2530,7 @@ y^o^y	bfs;;
 郹	bknl
 脥	bko
 雞	bkog
-"<[+_+]>"	bkog
 鸡	bkog
-"<[+_+]>"	bkog;
 肋	bks
 胯	bks
 脇	bks
@@ -2731,13 +2693,7 @@ y^o^y	bfs;;
 肣	bon;
 腧	bon;;
 臉	boo
-*^_^*	boo
-#^_^#	boo
-(@^^@)	boo
-=@~@=。	boo
 脸	boo
-*^_^*	boo;
-#^_^#	boo;;
 腍	bop
 脌	boq
 臇	bos
@@ -2884,15 +2840,6 @@ y^o^y	bfs;;
 睼	buao
 睸	buau
 眼	buav
-～＠_＠～	buav
-*@_@*	buav
-(*_^)	buav
-(+_+)	buav
-(０.０)	buav
-(<>_<>)	buav
-◣﹏◢	buav
-(b_d)	buav
-～＠_＠～	buav;
 眀	bub
 腨	bub
 腨	bub;
@@ -2947,13 +2894,6 @@ y^o^y	bfs;;
 睵	bugr
 睵	bugr;
 瞌	bugt
-π_π	bugt
-~_~	bugt
-(～o～)~zZ	bugt
-(9_9)	bugt
-e_e	bugt
-(ˍ^ˍ)(－.－)(～０～)	bugt
-π_π	bugt;
 睧	buha
 瞍	buhe
 眅	buhe
@@ -2975,11 +2915,6 @@ e_e	bugt
 盺	buhl
 睡	buhm
 眡	buhm
-(－_－)ｚＺ	buhm
-(=_=)zZzZ	buhm
-(∪.∪)...zzZ	buhm
-(*^^)/.。．：*：．。★，。：*。☆	buhm
-(^o^)~~YA(^0^)~~SU(^○^)~~MI(^_^)	buhm
 眡	buhm;
 颻	buhn
 飖	buhn
@@ -3864,8 +3799,6 @@ e_e	bugt
 錢	cii
 鎛	cii
 鉱	cii
-$_$	cii
-$$@@￥￥	cii
 钱	cii
 镈	cii
 銭	cii
@@ -5994,7 +5927,6 @@ $$@@￥￥	cii
 檢	doo
 來	doo
 検	doo
-。。。⊙　　﹀/﹀　　√﹀	doo
 检	doo
 来	doo
 來	doo;
@@ -6005,7 +5937,6 @@ $$@@￥￥	cii
 槍	dor
 梒	dor
 椥	dor
-σ(‥)	dor
 枪	dor
 梒	dor;
 椥	dor;;
@@ -7574,7 +7505,6 @@ $$@@￥￥	cii
 汗	emj
 潭	emj
 泙	emj
-(═﹏═|||)。。	emj
 潭	emj;
 泙	emj;;
 浭	emk
@@ -7670,10 +7600,6 @@ $$@@￥￥	cii
 潑	ene
 汲	ene
 涵	ene
-(QoQ)b	ene
-╮(－_－)╭	ene
-沒有ㄋㄟ～	ene
-沒有ㄚ	ene
 没	ene
 泼	ene
 溌	ene
@@ -8009,13 +7935,7 @@ $$@@￥￥	cii
 沢	eso
 泥	esp
 涊	esp
-(-__-)b	esp
->"<||||	esp
-^>_<^	esp
-(~_~)	esp
-......（‥）	esp
 涊	esp;
-(-__-)b	esp;;
 漽	esq
 沼	esr
 涒	esr
@@ -8428,16 +8348,8 @@ $$@@￥￥	cii
 汸	eys;
 泣	eyt
 瀘	eyt
-#(┬＿┬)	eyt
-(T__T)	eyt
-T△T	eyt
-//(ㄒoㄒ)//	eyt
-〒_〒	eyt
-〒△〒	eyt
-Ｑ０Ｑ	eyt
 泸	eyt
 瀘	eyt;
-#(┬＿┬)	eyt;;
 流	eyu
 濬	eyu
 淲	eyu
@@ -8973,7 +8885,6 @@ T△T	eyt
 炸	fhs
 炉	fhs
 爋	fhs
-●~*	fhs
 炉	fhs;
 爋	fhs;;
 烅	fht
@@ -9199,7 +9110,6 @@ T△T	eyt
 雀	fog
 烇	fog
 焳	fog
-\(0^◇^0)/	fog
 烇	fog;
 焳	fog;;
 炩	foi
@@ -9261,11 +9171,6 @@ T△T	eyt
 邻	fqnl;
 餋	fqov
 拳	fqq
-o-_-)=O)。O。)	fqq
-o(‵′)OOOOO	fqq
-o(一"一ㄨ)O	fqq
-o-_-)=O)。O。)	fqq;
-o(‵′)OOOOO	fqq;;
 駦	fqsf
 券	fqsh
 翷	fqsm
@@ -10272,8 +10177,6 @@ o(‵′)OOOOO	fqq;;
 趯	gosg
 趐	gosm
 超	gosr
-m(^S^)m	gosr
-m(^S^)m	gosr;
 起	gosu
 趘	gosu
 趘	gosu;
@@ -10358,15 +10261,7 @@ m(^S^)m	gosr;
 垊	grp;
 喜	grr
 嘉	grr
-(^_^)	grr
-(*^_^*)	grr
-q(^_^)p	grr
-=^_^=	grr
-(∩_∩)	grr
-(*∩_∩*)	grr
-^)0(^	grr
 嘉	grr;
-(^_^)	grr;;
 堮	grs
 翓	grsm
 壴	grt
@@ -10426,12 +10321,7 @@ q(^_^)p	grr
 懿	gtip
 幸	gtj
 墷	gtj
-(○^~^○)	gtj
-(○^～^○)	gtj
-(#^.^#)	gtj
-★(^o^)★(~_~)★(^_^)★(@???@)	gtj
 墷	gtj;
-(○^~^○)	gtj;;
 鼓	gtje
 墣	gtk
 塻	gtk
@@ -11209,13 +11099,10 @@ q(^_^)p	grr
 反	he
 夂	he
 夊	he
-(ˇ〈ˇ)	he
-（ˇ︿ˇ）	he
 へ	he
 ヘ	he'
 夂	he;
 夊	he;;
-(ˇ〈ˇ)	he;;;
 	he[
 	he]
 箔	hea
@@ -11278,11 +11165,7 @@ q(^_^)p	grr
 鍫	hfc
 乎	hfd
 釆	hfd
-(^_^)／★＼(^_^)	hfd
-^.^/U　U\^.^	hfd
-(^^)/▽　▽\(^^)	hfd
 釆	hfd;
-(^_^)／★＼(^_^)	hfd;;
 鴃	hfdk
 湬	hfe
 歸	hff
@@ -11367,10 +11250,7 @@ q(^_^)p	grr
 丢	hgif
 丟	hgii
 動	hgks
-＼●╱　■《　》	hgks
-＜●╱　■《　》	hgks
 动	hgks
-＼●╱　■《　》	hgks;
 筠	hgm
 籖	hgm
 籖	hgm;
@@ -11449,14 +11329,6 @@ q(^_^)p	grr
 軉	hhjc
 躻	hhjm
 笑	hhk
-^+++++^	hhk
-(^__^)y	hhk
-~~~^_^~~~	hhk
-~~~///(^v^)\\\~~~	hhk
-－▽－ｙ	hhk
-(^o^哇)~~(^0^)哈~~(^○^)哈~~	hhk
-^+++++^	hhk;
-(^__^)y	hhk;;
 躸	hhkr
 節	hhl
 篽	hhl
@@ -12288,11 +12160,6 @@ q(^_^)p	grr
 犑	hqbk
 看	hqbu
 犅	hqbu
-⊙_⊙	hqbu
--●_●-	hqbu
-(●-●)	hqbu
-(/_\)	hqbu
-(/︹\)	hqbu
 犅	hqbu;
 簀	hqc
 箦	hqc
@@ -12319,12 +12186,7 @@ q(^_^)p	grr
 牿	hqhr
 我	hqi
 牫	hqi
-ㄛㄞㄋ	hqi
-偶love泥	hqi
-^3^	hqi
-我愛你	hqi
 牫	hqi;
-ㄛㄞㄋ	hqi;;
 犥	hqif
 牻	hqih
 犙	hqih
@@ -12348,9 +12210,6 @@ q(^_^)p	grr
 篲	hqm;
 犡	hqmb
 拜	hqmj
-(^人^)	hqmj
-m(_　_)m	hqmj
-(^人^)	hqmj;
 牼	hqmm
 牾	hqmr
 牱	hqmr
@@ -12407,11 +12266,7 @@ m(_　_)m	hqmj
 篔	hrc;
 洜	hre
 烏	hrf
-Σ^)/	hrf
-<□:≡	hrf
 乌	hrf
-Σ^)/	hrf;
-<□:≡	hrf;;
 舕	hrff
 垕	hrg
 舑	hrgb
@@ -12437,9 +12292,7 @@ m(_　_)m	hqmj
 劶	hrks
 劶	hrks;
 帥	hrlb
-帥(￣▽￣)σ"	hrlb
 帅	hrlb
-帥(￣▽￣)σ"	hrlb;
 蛗	hrli
 刮	hrln
 劄	hrln
@@ -12629,12 +12482,6 @@ m(_　_)m	hqmj
 毨	huhu
 毳	huhu;
 鬼	hui
-(‧Q‧)	hui
-(((m-_-)m	hui
-川-_@川	hui
-("*_*)(‵~~‵)====	hui
-(‧Q‧)	hui;
-(((m-_-)m	hui;;
 毬	huie
 球	huie
 球	huie;
@@ -13581,11 +13428,6 @@ m(_　_)m	hqmj
 畚	ikw
 神	il
 庸	ilb
-台北縣	ilbz
-台北縣政府	ilbz
-台中縣	ilbz
-台中縣政府	ilbz
-台北縣政府	ilbz;
 賡	ilc
 赓	ilc
 赓	ilc;
@@ -13598,9 +13440,6 @@ m(_　_)m	hqmj
 曵	ilp
 唐	ilr
 廔	ilv
-台北市	ilyz
-台北市政府	ilyz
-台北市政府	ilyz;
 式	im
 冫	im
 弌	im
@@ -13654,12 +13493,6 @@ m(_　_)m	hqmj
 凃	imod
 准	imog
 冷	imoi
-(>_<)}}	imoi
-^^|||	imoi
-(═﹏═|||)。。	imoi
-(＃－.－)/	imoi
-．．<{=．．．	imoi
-(>_<)}}	imoi;
 冾	imor
 凔	imor
 凔	imor;
@@ -13773,7 +13606,6 @@ m(_　_)m	hqmj
 忒	ipf
 麃	ipf
 熋	ipf
-●_●	ipf
 忒	ipf;
 麃	ipf;;
 麋	ipfd
@@ -13858,12 +13690,7 @@ m(_　_)m	hqmj
 鄌	irnl;
 感	irp
 怠	irp
-(≧◇≦)	irp
-~>_<~+	irp
-^_^o~~~	irp
-‵（＋﹏＋）′	irp
 怠	irp;
-(≧◇≦)	irp;;
 乨	iru
 辝	iryj
 廣	is
@@ -14698,8 +14525,6 @@ m(_　_)m	hqmj
 宄	jkn
 孝	jknd
 老	jkp
-{^o~o^}~~(Ｖ)~~{^o~o^}	jkp
-{^o~o^}~~(Ｖ)~~{^o~o^}	jkp;
 耇	jkpr
 寄	jkr
 協	jks
@@ -14984,14 +14809,7 @@ m(_　_)m	hqmj
 寷	jut
 安	jv
 ㄢ	jv
-~^o^~	jv
-\(^▽^)/	jv
-\(@^0^@)/	jv
-ㄟ(‧‧)(‧‧)ㄟ	jv
-\(@^０^@)/★	jv
 ㄢ	jv;
-~^o^~	jv;;
-\(^▽^)/	jv;;;
 寎	jvb
 案	jvd
 寐	jvd
@@ -15094,8 +14912,6 @@ m(_　_)m	hqmj
 ⓚ	k
 乄	k
 疒	k
-＞﹏<	k
->﹏＜	k
 更	k,
 效	k.
 大	k;
@@ -15319,7 +15135,6 @@ m(_　_)m	hqmj
 猏	khhb
 猵	khhb
 獢	khhb
-ζ。≡	khhb
 狮	khhb
 猏	khhb;
 獀	khhe
@@ -15339,8 +15154,6 @@ m(_　_)m	hqmj
 猦	khhn
 猁	khhn;
 狐	khho
-(=^ω^=)	khho
-(=^ω^=)	khho;
 狢	khhr
 狧	khhr
 狧	khhr;
@@ -15577,7 +15390,6 @@ m(_　_)m	hqmj
 瘆	kih
 瘮	kih;
 瘆	kih;;
-太太	kiki
 雄	kiog
 翃	kism
 疣	kiu
@@ -15792,7 +15604,6 @@ m(_　_)m	hqmj
 丸	kni
 厹	kni
 癊	kni
-○●○—	kni
 厹	kni;
 癊	kni;;
 卆	knj
@@ -16024,14 +15835,7 @@ m(_　_)m	hqmj
 尥	kupi
 尥	kupm
 尷	kust
-^_^"	kust
-^_^|||	kust
-^_^;	kust
->_<|||	kust
-⊙﹏⊙|||°	kust
-￣◇￣	kust
 尴	kust
-^_^"	kust;
 尲	kutc
 奇	kv
 癵	kvb
@@ -16102,9 +15906,6 @@ m(_　_)m	hqmj
 きょ	kyo;;
 	kyo[
 	kyo]
-大新倉頡	kyog
-大新倉頡輸入法	kyog
-大新倉頡輸入法	kyog;
 疵	kyp
 癔	kyp
 癔	kyp;
@@ -16283,8 +16084,6 @@ m(_　_)m	hqmj
 襋	ldb
 襰	ldc
 被	lde
-(¯▽¯；)	lde
-(¯▽¯；)	lde;
 襟	ldf
 袂	ldk
 褘	ldq
@@ -16389,8 +16188,6 @@ m(_　_)m	hqmj
 り	li;;
 蟍	li;d
 蝌	li;j
-(。。)～	li;j
-(。。)～	li;j;
 蜊	li;n
 蜏	li;s
 蜲	li;v
@@ -16422,7 +16219,6 @@ m(_　_)m	hqmj
 蚏	lib;;
 蝸	libb
 螖	libb
-@/"	libb
 蜗	libb
 螖	libb;
 螟	libc
@@ -16497,7 +16293,6 @@ m(_　_)m	hqmj
 螄	lihb
 蟜	lihb
 蝺	lihb
-^.　.^	lihb
 螄	lihb;
 蛛	lihd
 蟂	lihd
@@ -16616,9 +16411,7 @@ m(_　_)m	hqmj
 蚛	lil
 蝂	lile
 蟲	lili
-(‧‧)nnn	lili
 虫	lili
-(‧‧)nnn	lili;
 蜵	lill
 蝆	lilq
 蠱	lilt
@@ -16882,8 +16675,6 @@ m(_　_)m	hqmj
 蚪	liyj
 蟀	liyj
 蜶	liyj
->●)))	liyj
-(((●<	liyj
 蚪	liyj;
 蟀	liyjf
 蚊	liyk
@@ -16903,8 +16694,6 @@ m(_　_)m	hqmj
 蛅	liyr
 螃	liys
 蚄	liys
-≡[。。]≡	liys
-◥◤⊙	liys
 蚄	liys;
 蠦	liyt
 虻	liyv
@@ -17330,16 +17119,7 @@ m(_　_)m	hqmj
 餥	lyov
 悲	lyp
 襱	lyp
-（*@︿@*）	lyp
-ˊ*_*ˋ	lyp
--____-"	lyp
--︵-	lyp
-：-＜	lyp
-(*_*)	lyp
-#_#	lyp
-(>c<)	lyp
 襱	lyp;
-（*@︿@*）	lyp;;
 羋	lyq
 芈	lyq
 芈	lyq;
@@ -18369,9 +18149,6 @@ m(_　_)m	hqmj
 硇	mhw
 磂	mhw;
 硇	mhw;;
-三重市	mhyz
-三重市公所	mhyz
-三重市公所	mhyz;
 融	mi
 み	mi
 ミ	mi'
@@ -18484,14 +18261,10 @@ m(_　_)m	hqmj
 鞏	mjtj
 碗	mju
 天	mk
-<(〝〝O〞〞)>	mk
-<("""O""")>	mk
 饜	mk;
 饏	mk;
 餍	mk;
-<(〝〝O〞〞)>	mk;
 饏	mk;;
-<("""O""")>	mk;;
 餍	mk;;;
 奣	mkab
 蠺	mkai
@@ -19017,14 +18790,7 @@ m(_　_)m	hqmj
 砱	moi
 豧	moib
 豬	moja
-<(￣oo,￣)/	moja
-～^..^～	moja
-(^ω^)	moja
-↖(^ω^)↗	moja
-(¯(∞)¯)	moja
-^(OO)^	moja
 猪	moja
-<(￣oo,￣)/	moja;
 豶	mojc
 豮	mojc
 豮	mojc;
@@ -19144,7 +18910,6 @@ m(_　_)m	hqmj
 砄	mrdk
 碴	mrdm
 砵	mrdm
-~~\(-_-)(-_-)/~~(-人-)	mrdm
 砵	mrdm;
 礎	mrdo
 础	mrdo
@@ -19722,8 +19487,6 @@ m(_　_)m	hqmj
 碌	mve
 坙	mvg
 牙	mvh
-(‧m‧)	mvh
-(‧m‧)	mvh;
 磯	mvi
 矶	mvi
 矶	mvi;
@@ -19754,9 +19517,6 @@ m(_　_)m	hqmj
 碅	mw;;
 覃	mwaj
 醒	mwam
-(3_3)	mwam
-((*_*))	mwam
-(3_3)	mwam;
 醍	mwao
 醌	mwap
 醖	mwat
@@ -19813,8 +19573,6 @@ m(_　_)m	hqmj
 酺	mwib
 醾	mwid
 酸	mwie
-(*>.<*)~@	mwie
-(*>.<*)~@	mwie;
 醿	mwif
 醦	mwih
 醆	mwii
@@ -19989,8 +19747,6 @@ m(_　_)m	hqmj
 正	mym
 ㊣	mym
 砋	mym
-㊣o㊣	mym
-㊣_㊣	mym
 ㊣	mym;
 砋	mym;;
 碠	myn
@@ -21287,9 +21043,7 @@ No.	no
 陮	nog;;
 癹	nohe
 飛	noho
-︿(￣︶￣)︽(￣︶￣)︿	noho
 飞	noho
-︿(￣︶￣)︽(￣︶￣)︿	noho;
 附	noi
 陰	noi
 弣	noi
@@ -21439,8 +21193,6 @@ No.	no
 鸳	nuhf
 鸳	nuhf;
 兔	nui
-/(*w*)\	nui
-/(*w*)\	nui;
 勉	nuks
 頠	numc
 顄	numc
@@ -21459,14 +21211,7 @@ No.	no
 陈	nw;;
 隅	nwb
 魚	nwf
-<"((()))<<	nwf
-<*)>>>=<	nwf
-<。)#)))≦	nwf
-(:◎)≡	nwf
-(:≡	nwf
 鱼	nwf
-<"((()))<<	nwf;
-<*)>>>=<	nwf;;
 魯	nwfa
 鲁	nwfa
 鲁	nwfa;
@@ -21763,9 +21508,6 @@ No.	no
 叙	odye
 敍	odye;
 斜	odyj
-//_^	odyj
-//_∩*	odyj
-//_^	odyj;
 雙	oe
 汆	oe
 ③	oe
@@ -22369,9 +22111,6 @@ No.	no
 ⒄	oj
 ⒘	oj
 仐	oj
-(‧_‧)?	oj
-(^_^)?	oj
-(((^^)(^^)))?	oj
 午	oj;
 ⑰	oj;;
 ⒄	oj;;;
@@ -22795,20 +22534,9 @@ No.	no
 伋	one
 你	onf
 ㄋ	onf
-ㄋ好ㄇ	onf
-泥好嗎	onf
-^_^y	onf
-你好嗎	onf
 ㄋ	onf;
-ㄋ好ㄇ	onf;;
 氣	onfd
-(〝O〞)~~~	onfd
-(‵A′)b	onfd
-(ˋ〈ˊ〉	onfd
-‵︿′	onfd
-@x@	onfd
 气	onfd
-(〝O〞)~~~	onfd;
 氮	onff
 侹	ong
 鳹	onhf
@@ -23173,25 +22901,6 @@ No.	no
 俋	oru;
 僶	oru;;
 敆	orye
-○|￣|ˍ	orz
-ˍ|￣|○	orz
-○|ˍ|￣	orz
-￣|ˍ|○	orz
-ˍＤrz	orz
-or2=3	orz
-嘂rz	orz
-○rz	orz
-ⓧrz	orz
-◎rz	orz
-●rz	orz
-★rz	orz
-prz	orz
-＠rz	orz
-○r┬┬┬┬┬z	orz
-ⓧr┬┬┬┬┬z	orz
-σ(＠︶＠)rＺ	orz
-ˍ|￣|○	orz;
-○|ˍ|￣	orz;;
 作	os
 ⑫	os
 ⑿	os
@@ -23421,14 +23130,6 @@ prz	orz
 ②	ow;;
 ➋	ow;;;
 偶	owb
-└(^o^)┘;	owb
-pTOTq	owb
-ˋ(′o‵")ˊ	owb
-┌(‵▽′)╭	owb
-<(‵▽′)>	owb
-(/‵Ⅲ′)/	owb
-└(^o^)┘;	owb;
-pTOTq	owb;;
 伵	owc
 倮	owd
 儽	owf
@@ -23529,9 +23230,7 @@ pTOTq	owb;;
 儃	oym;;
 停	oyn
 伉	oyn
-d(^^)	oyn
 伉	oyn;
-d(^^)	oyn;;
 偼	oyo
 侅	oyo
 儫	oyo
@@ -23973,9 +23672,6 @@ d(^^)	oyn;;
 勼	pkn;
 疑	pkno
 欵	pkno
-(『『)~~→	pkno
-(→_→)	pkno
-@_@a	pkno
 欵	pkno;
 悏	pko
 怱	pkp
@@ -24277,11 +23973,7 @@ d(^^)	oyn;;
 恲	ptt
 慌	ptu
 懵	ptu
-o(><；)oo	ptu
-(^^;;;;;	ptu
-(*_*)!	ptu
 懵	ptu;
-o(><；)oo	ptu;;
 懩	ptv
 愖	ptv
 恾	ptv
@@ -24299,12 +23991,7 @@ o(><；)oo	ptu;;
 胷	pub
 胷	pub;
 皺	pude
-一"一||	pude
-o(‧""‧)o	pude
->""<	pude
-="=	pude
 皱	pude
-一"一||	pude;
 惾	pue
 炰	puf
 慛	pug
@@ -24465,8 +24152,6 @@ o(‧""‧)o	pude
 揪	q;f
 捼	q;v
 摘	q[
-摘要	q[
-摘要	q[;
 提	qa
 抇	qa
 抇	qa;
@@ -24600,11 +24285,6 @@ o(‧""‧)o	pude
 揿	qco;
 捴	qcp
 掰	qcq
-(^_^)/~~	qcq
-byebye~	qcq
-81816~	qcq
-(^_^)/~~	qcq;
-byebye~	qcq;;
 挩	qcu
 捝	qcu
 捝	qcu;
@@ -25187,11 +24867,6 @@ byebye~	qcq;;
 打	qmn
 捯	qmn
 挒	qmn
-↖(^_^)↗	qmn
-↖(^ω^)↗	qmn
-p(^o^)q	qmn
-q*0*p	qmn
-(^_-)db(-_^)	qmn
 捯	qmn;
 挒	qmn;;
 撅	qmo
@@ -25916,14 +25591,6 @@ q*0*p	qmn
 唂	rcr
 哾	rcu
 呆	rd
-(￣□￣)	rd
-(⊙o⊙)	rd
-。_。	rd
-O__O"	rd
-8-X	rd
-(￣□￣)	rd;
-(⊙o⊙)	rd;;
-。_。	rd;;;
 啉	rdd
 噤	rdf
 氉	rdhu
@@ -25986,25 +25653,11 @@ O__O"	rd
 嚇	rgc
 哧	rgc
 嚽	rgc
-(⊙＿⊙)a	rgc
-(═﹏═|||)。。	rgc
-=　=b	rgc
-Σ（°△　°|||）︴	rgc
 吓	rgc
 哧	rgc;
 嚽	rgc;;
 哋	rgd
 哇	rgg
-(《⊙⊙》)	rgg
-…(⊙_⊙;)…	rgg
-○圭~○列~	rgg
-(；。O。)	rgg
-.......\(><)/	rgg
-（*@ο@*）	rgg
-O_o	rgg
-…(⊙_⊙;)…○圭~○列~	rgg
-(《⊙⊙》)	rgg;
-…(⊙_⊙;)…	rgg;;
 嘭	rgh
 鷕	rghf
 呿	rgi
@@ -26304,10 +25957,6 @@ O_o	rgg
 唊	rko
 愍	rkp
 咖	rkr
-(^_^)_旦~~	rkr
-■D〞	rkr
-(^_^)_旦~~	rkr;
-■D〞	rkr;;
 另	rks
 叻	rks
 咵	rks
@@ -26985,12 +26634,6 @@ O_o	rgg
 哭	rrik
 獸	rrik
 跋	rrik
-::>_<::	rrik
-…→︵←…	rrik
-(!)_(!)	rrik
-%>_<%	rrik
-~@_@~	rrik
-:~(	rrik
 兽	rrik
 獣	rrik
 獸	rrik;
@@ -27141,9 +26784,6 @@ O_o	rgg
 ㄛ	rsg
 嚁	rsg
 哐	rsg
-(?o?)|||	rsg
-?_?	rsg
-f(^_^)	rsg
 ㄛ	rsg;
 嚁	rsg;;
 叨	rsh
@@ -27360,12 +27000,6 @@ f(^_^)	rsg
 嘪	rwc
 嘪	rwc;
 嘿	rwf
-(~^o^~)	rwf
-((o(^_^)o))	rwf
-((((((^^	rwf
-(@o@)∥	rwf
-(~^o^~)	rwf;
-((o(^_^)o))	rwf;;
 囉	rwg
 哩	rwg
 嚜	rwg
@@ -27384,10 +27018,7 @@ f(^_^)	rsg
 鄙	rwnl
 嗯	rwp
 ㄣ	rwp
-(ˇˍˇ)	rwp
-（'－'）	rwp
 ㄣ	rwp;
-(ˇˍˇ)	rwp;;
 嚸	rwr
 嗢	rwt
 喂	rwv
@@ -27414,9 +27045,6 @@ f(^_^)	rsg
 唷	ryb
 嗃	ryb
 嗵	ryb
-‧x‧	ryb
-*^◎^*	ryb
-(*^@^*)	ryb
 啼	ryb;
 啃	ryb;;
 啃	rybf
@@ -27470,21 +27098,10 @@ f(^_^)	rsg
 呅	rykf
 噺	ryl
 噓	rym
-@(一-一)	rym
-~w_w~...　...	rym
 嘘	rym
-@(一-一)	rym;
-~w_w~...　...	rym;;
 哼	ryn
 吭	ryn
-(#‵′)	ryn
-(#‵′)↑	ryn
-<(︶︿︶)_	ryn
-<(‵^′)>	ryn
->∩<	ryn
-(/o\)	ryn
 吭	ryn;
-(#‵′)	ryn;;
 足	ryo
 咳	ryo
 噱	ryo
@@ -27976,12 +27593,7 @@ f(^_^)	rsg
 鸐	sghf
 戳	sgi
 聽	sgjp
->d(˙_˙)b<<	sgjp
-O(^_^)O	sgjp
-|(-_-)|	sgjp
-[(>_<)]	sgjp
 听	sgjp
->d(˙_˙)b<<	sgjp;
 劻	sgks
 剭	sgln
 邼	sgnl
@@ -28060,10 +27672,7 @@ O(^_^)O	sgjp
 	shi]
 鬖	shih
 髮	shik
-ξ⊙_⊙ξ	shik
-&(^_^)&	shik
 发	shik
-ξ⊙_⊙ξ	shik;
 鬐	shja
 鬍	shjb
 胡	shjb
@@ -28939,8 +28548,6 @@ O(^_^)O	sgjp
 薶	tbg
 薶	tbg;
 剪	tbh
-(^O^)y(^O^)g(^O^)W	tbh
-(^O^)y(^O^)g(^O^)W	tbh;
 繭	tbi
 蒬	tbi
 萈	tbi
@@ -29058,8 +28665,6 @@ O(^_^)O	sgjp
 彂	tcnk
 欺	tcno
 歉	tcno
-~~q>︿<p~~	tcno
-~>_<~	tcno
 歉	tcno;
 菐	tco
 敟	tcok
@@ -29762,8 +29367,6 @@ O(^_^)O	sgjp
 蓉	tjr
 菅	tjr
 菪	tjr
-(╯︵╰)	tjr
--﹏-|||b	tjr
 蓉	tjr;
 菅	tjr;;
 鞙	tjrb
@@ -30279,10 +29882,6 @@ O(^_^)O	sgjp
 芲	top
 菍	top
 蒊	top
-@>->->---	top
---<-<-<@	top
-(^_^)∠※	top
-　★　＼│╱　│　	top
 芲	top;
 菍	top;;
 荷	tor
@@ -30403,13 +30002,6 @@ O(^_^)O	sgjp
 鲝	tqnf
 鲝	tqnf;
 羞	tqng
-(*^﹏^*)	tqng
-~*.*~	tqng
-=^-^=	tqng
-///o^_^o\\\ㄚ	tqng
-(#￣▽￣#)	tqng
-U／／／U	tqng
-(*^﹏^*)	tqng;
 芙	tqo
 荴	tqo
 蓵	tqo
@@ -31878,10 +31470,6 @@ U／／／U	tqng
 Ⓥ	v
 ⒱	v
 ⓥ	v
-<_^\\\	v
-♀(￣▽￣)/	v
-%(^_^)%	v
-c^_>&<_^\\\	v
 維	v,
 维	v,
 维	v,;
@@ -32009,16 +31597,6 @@ c^_>&<_^\\\	v
 孥	vend
 胬	veob
 怒	vep
-(>_<)	vep
-ˋ(>_<)ˊ	vep
-(~>_<~)	vep
-(>﹏<)	vep
->_<#	vep
-(((‵□′))	vep
-（*+﹏+*）~@	vep
-z(∪_∪)z	vep
-(>_<)	vep;
-ˋ(>_<)ˊ	vep;;
 拏	veq
 駑	vesf
 驽	vesf
@@ -32857,13 +32435,7 @@ z(∪_∪)z	vep
 嫱	vgw
 嫱	vgw;
 裝	vgyv
-∩__∩y	vgyv
-(:@_@:)	vgyv
-≧﹏≦	vgyv
-＞﹏＜	vgyv
->﹏＜	vgyv
 装	vgyv
-∩__∩y	vgyv;
 線	vh
 线	vh
 线	vh;
@@ -32978,13 +32550,6 @@ z(∪_∪)z	vep
 槳	vid
 嫲	vid
 楽	vid
-v(￣︶￣)y	vid
-<(‵︶′)~	vid
-★~★	vid
-(☆_☆)	vid
-(*^‧^*)	vid
-(*>﹏<*)′	vid
-O(≧▽≦)O	vid
 乐	vid
 桨	vid
 槳	vid;
@@ -34139,15 +33704,6 @@ O(≧▽≦)O	vid
 四	wc
 罾	wca
 囧	wcb
-囧rz	wcb
-崮rz	wcb
-莔rz	wcb
-苉rz	wcb
-囶rz	wcb
-圀rz	wcb
-圙rz	wcb
-囧rz	wcb;
-崮rz	wcb;;
 囶	wcg
 罤	wch
 畟	wche
@@ -34198,9 +33754,6 @@ O(≧▽≦)O	vid
 黪	wfih
 黪	wfih;
 默	wfik
-￣△￣	wfik
-(‘‘)(’’)	wfik
-￣△￣	wfik;
 黓	wfip
 黬	wfir
 黰	wfjc
@@ -34345,11 +33898,6 @@ O(≧▽≦)O	vid
 ㄣ	wkp;
 畸	wkr
 男	wks
-c^_>	wks
-\(￣▽￣)♂	wks
-c^_>&<_^\\\	wks
-c^_>	wks;
-\(￣▽￣)♂	wks;;
 罨	wku
 甲	wl
 罒	wl
@@ -34499,8 +34047,6 @@ c^_>	wks;
 囮	wop;
 畮	woy
 思	wp
-(ˇˍˇ)	wp
-(ˇˍˇ)	wp;
 罹	wpg
 囫	wph
 蜀	wpi
@@ -36625,13 +36171,6 @@ c^_>	wks;
 哀	yrv
 襄	yrv
 裛	yrv
-(╯︵╰)	yrv
-(╯﹏╰)	yrv
-…(﹂_﹂)…	yrv
-(︸_︸)	yrv
-<("""O""")>	yrv
--﹏-|||b	yrv
-－　－|||	yrv
 襄	yrv;
 裛	yrv;;
 詉	yrve
@@ -36900,13 +36439,7 @@ c^_>	wks;
 竴	ytti
 道	ytu
 逆	ytu
-m(-_-)m	ytu
-(^〈^〉	ytu
-/(YoY)\	ytu
-<（_　_　_）>	ytu
-（^︿^）	ytu
 逆	ytu;
-m(-_-)m	ytu;;
 端	ytub
 妾	ytv
 遒	ytw
@@ -36914,9 +36447,6 @@ m(-_-)m	ytu;;
 竨	ytyj
 站	ytyr
 竝	ytyt
-新莊市	ytyz
-新莊市公所	ytyz
-新莊市公所	ytyz;
 導	yu
 辿	yu
 导	yu
@@ -37480,7 +37010,6 @@ m(-_-)m	ytu;;
 謝	zhi
 謉	zhi
 誐	zhi
-~\（^　^\）(/^　^)/~	zhi
 谢	zhi
 謉	zhi;
 誐	zhi;;
