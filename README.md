@@ -27,6 +27,8 @@
 - bopomofo.custom.yaml
 - newcj.custom.yaml
 
+以標點功能新增了我自己的常用語，若不需要請由`newcj.custom.yaml`中移除
+
 ## 參考網址
 
 RIME | 中州韻輸入法引擎 <https://rime.im/> \
