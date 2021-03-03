@@ -5,7 +5,7 @@
 schema:
   schema_id: newcj
   name: 自由大新倉頡
-  version: "1.0"
+  version: '1.0'
   author:
     - 自由大新倉頡
   description: |
@@ -17,15 +17,15 @@ schema:
 switches:
   - name: ascii_mode
     reset: 1
-    states: [ 中文, 西文 ]
+    states: [中文, 西文]
   - name: full_shape
-    states: [ 半角, 全角 ]
+    states: [半角, 全角]
   - name: simplification
-    states: [ 漢字, 汉字 ]
+    states: [漢字, 汉字]
   - name: extended_charset
-    states: [ 常用, 增廣 ]
+    states: [常用, 增廣]
   - name: ascii_punct
-    states: [ 。，, ．， ]
+    states: [。，, ．，]
 
 engine:
   processors:
@@ -54,9 +54,9 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba,./;?[]
-  delimiter: " "
+  delimiter: ' '
   auto_select: true
-  max_code_length: 5  # 形碼最大碼長，超過則頂字上屛
+  max_code_length: 5 # 形碼最大碼長，超過則頂字上屛
 
 translator:
   dictionary: newcj
@@ -70,11 +70,11 @@ translator:
   comment_format:
     - "xlit|',./;?[]abcdefghijklmnopqrstuvwxyz|、，。／；？「」日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜Ｚ|"
   disable_user_dict_for_patterns:
-    - "^z.*$"
-    - "^yyy.*$"
+    - '^z.*$'
+    - '^yyy.*$'
 
 simplifier:
-  tips: all  # 簡化字模式下提示對應的傳統漢字
+  tips: all # 簡化字模式下提示對應的傳統漢字
 
 punctuator:
   import_preset: symbols
