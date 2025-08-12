@@ -10221,12 +10221,10 @@ hhya	軄
 hi	我
 hi	鬼
 hi	么
-hi	我
 hi	幺
 hi	ひ
 hix	鬼
 hixx	么
-hixxx	我
 hibv	魍
 hic	簾
 hic	帘
