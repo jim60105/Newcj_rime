@@ -27,6 +27,21 @@
 - bopomofo.custom.yaml
 - newcj.custom.yaml
 
+## newcj.txt
+
+將以上碼表轉換為 [MicrosoftCangjieTool](https://github.com/Arthurmcarthur/MicrosoftCangjieTool) 可讀格式
+
+由於 Microsoft Cangjie 只支援 a-z[^1]
+
+- 將候選字用的 `;` 轉換為 `x`(難)
+- 將字碼內含有 a-z 之外的條目刪除
+  - 捨棄原本用於 `食` 字旁和 `禾` 字旁的 `;`
+  - 其它所有標點 `,` `.` `[` `]` `'` `/`
+
+由於 Microsoft Cangjie 不支援詞組，將非一單字元的條目刪除
+
+[^1]: <https://github.com/Arthurmcarthur/MicrosoftCangjieTool/blob/fb4efdc0ac5e01a03c09ba285f780fc2188e565f/src/MSCJTable.cpp#L183>
+
 ## 參考網址
 
 RIME | 中州韻輸入法引擎 <https://rime.im/> \
