@@ -42,6 +42,14 @@
 
 [^1]: <https://github.com/Arthurmcarthur/MicrosoftCangjieTool/blob/fb4efdc0ac5e01a03c09ba285f780fc2188e565f/src/MSCJTable.cpp#L183>
 
+## ChtCangjieExt.lex
+
+將 `newcj.txt` 以 MicrosoftCangjieTool 轉換出的 lex 檔案
+
+How to use it: <https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346&extra=&page=1>
+
+> 若這個版本為2004，請進入 C:\Windows\System32\zh-hk 文件夾，刪除 ChtCangjie.sdc、ChtCangjie.spd 和 ChtCangjieExt.lex 文件，順便也要做好備份工作。然後將 ChtCangjieExt.lex 複製到文件夾中（請注意不要弄錯文件名）。
+
 ## 參考網址
 
 RIME | 中州韻輸入法引擎 <https://rime.im/> \
