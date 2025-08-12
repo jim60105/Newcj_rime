@@ -11666,7 +11666,9 @@ i	い
 i	ぃ
 i	ゐ
 i	爲
+ix	麼
 ix	戈
+ix	么
 ixx	弋
 ixxx	ㄚ
 ixxxx	ㄛ
@@ -12508,8 +12510,6 @@ iwb	庽
 iwc	廙
 iwg	廛
 iwl	庘
-ix	麼
-ix	么
 ixx	么
 ixc	鏖
 ixd	麋
